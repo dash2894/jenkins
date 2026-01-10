@@ -1,2 +1,2 @@
 print ("Hello chetan")
-print ("How r u")
+print ("Thanks for helping")

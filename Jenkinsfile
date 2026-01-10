@@ -18,7 +18,7 @@ pipeline {
       }
       stage ('Deployment') {
         steps {
-          python Hello.py
+          python3 Hello.py
         }
       }
     }
